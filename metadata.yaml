@@ -1,0 +1,32 @@
+_repo: The-Law-and-the-Word_15568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Troward, T. (Thomas)
+    alias: Troward, Thomas
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '3487'
+    url: http://www.gutenberg.org/2009/agents/3487
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Troward
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Essays'
+- !lcsh 'New Thought'
+tableOfContents: Some facts in nature -- Some psychic experiences -- Man's place in
+  the creative order -- The law of wholeness -- The soul of the subject -- The promises
+  -- Death and immortality -- Transferring the burden.
+title: The Law and the Word
+url: http://www.gutenberg.org/ebooks/15568
